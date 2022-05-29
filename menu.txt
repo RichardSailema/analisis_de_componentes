@@ -1,0 +1,3 @@
+hola estoy creando una nueva rama que se llamará experimentos y aqui comienzo a escribir 
+
+estas pocas palabras para experimentar con Git
